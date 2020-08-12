@@ -27,7 +27,7 @@
 
 ---
 
-<img align="left" alt="St3ve89's Github Stats" src="https://github-readme-stats.St3ve89.vercel.app/api?username=St3ve89&show_icons=true&hide_border=true" />
+<img align="left" alt="St3ve89's Github Stats" src="https://github-readme-stats.vercel.app/api?username=St3ve89&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/istvan-acs-b24479160/
 [website]: https://istvanacs.herokuapp.com/
