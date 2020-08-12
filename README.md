@@ -8,8 +8,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="St3ve89" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="St3ve89 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
@@ -27,7 +27,7 @@
 
 ---
 
-<img align="left" alt="St3ve89's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=St3ve89&show_icons=true&hide_border=true" />
+<img align="left" alt="St3ve89's Github Stats" src="https://github-readme-stats.St3ve89.vercel.app/api?username=St3ve89&show_icons=true&hide_border=true" />
 
 [linkedin]: https://www.linkedin.com/in/istvan-acs-b24479160/
 [website]: https://istvanacs.herokuapp.com/
