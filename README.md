@@ -3,7 +3,7 @@
 ## I'm a Husband and a Developer!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel a lot
 
 ### Connect with me:
